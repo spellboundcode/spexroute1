@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace spexroute1.Controllers
 {
-    public class SubscriptionManagementController : Controller
+    public class SpellboundcodeManagementController : Controller
     {
         public IActionResult Index()
         {
